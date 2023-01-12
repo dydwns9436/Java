@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BurgerQueen/BurgerQueen.iml" filepath="$PROJECT_DIR$/BurgerQueen/BurgerQueen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda_Stream/Lambda_Stream.iml" filepath="$PROJECT_DIR$/Lambda_Stream/Lambda_Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_02/OOP_02.iml" filepath="$PROJECT_DIR$/OOP_02/OOP_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section2/Section2.iml" filepath="$PROJECT_DIR$/Section2/Section2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_Effective/java_Effective.iml" filepath="$PROJECT_DIR$/java_Effective/java_Effective.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_test01/java_test01.iml" filepath="$PROJECT_DIR$/java_test01/java_test01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testeeee/testeeee.iml" filepath="$PROJECT_DIR$/testeeee/testeeee.iml" />
+    </modules>
+  </component>
+</project>
